@@ -86,6 +86,14 @@ Dest=8D;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.co
 Dest=8D;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
 Dest=8D;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX.PUP;CDN_Timeout=30;
 
+#HK
+Dest=8E;CompatibleSystemSoftwareVersion=4.9200-;
+Dest=8E;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
+Dest=8E;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD.PUP;CDN_Timeout=30;
+Dest=8E;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBT.PUP;CDN_Timeout=30;
+Dest=8E;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
+Dest=8E;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX.PUP;CDN_Timeout=30;
+
 #BR
 Dest=8F;CompatibleSystemSoftwareVersion=1.0000-;
 Dest=8F;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
@@ -96,4 +104,16 @@ Dest=8F;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.co
 
 #Debug
 Dest=82;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/DBG/EvilNat_4.92_D-PEX.PUP;CDN_Timeout=30;
+Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/D-PEX/Evilnat_4.92.2_D-PEX.PUP;CDN_Timeout=30;
+Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/D-PEX/Evilnat_4.92.2_D-PEX_noBD.PUP;CDN_Timeout=30;
+Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/D-PEX/Evilnat_4.92.2_D-PEX_noBT.PUP;CDN_Timeout=30;
+Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/D-PEX/Evilnat_4.92.2_D-PEX_noBD+noBT.PUP;CDN_Timeout=30;
+
+#Official for references
+#Dest=84;CompatibleSystemSoftwareVersion=4.8900-;
+#Dest=84;IncrementalUpdateVersion=000109f5-000109f5;ImageVersion=00010aad;SystemSoftwareVersion=4.8900;CDN=http://dus01.ps3.update.playstation.net/update/ps3/image/us/2022_0510_95307e1b51d3bcc33a274db91488d29f/PS3PATCH.PUP;CDN_Timeout=30;
+#Dest=84;ImageVersion=00010aad;SystemSoftwareVersion=4.8900;CDN=http://dus01.ps3.update.playstation.net/update/ps3/image/us/2022_0510_95307e1b51d3bcc33a274db91488d29f/PS3UPDAT.PUP;CDN_Timeout=30;
+
+#Dest=85;CompatibleSystemSoftwareVersion=4.9200-;
+#Dest=85;IncrementalUpdateVersion=00010b28-00010b28;ImageVersion=00010b72;SystemSoftwareVersion=4.9200;CDN=http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2025_0305_c179ad173bbc08b55431d30947725a4b/PS3PATCH.PUP;CDN_Timeout=30;
+#Dest=85;ImageVersion=00010b72;SystemSoftwareVersion=4.9200;CDN=http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2025_0305_c179ad173bbc08b55431d30947725a4b/PS3UPDAT.PUP;CDN_Timeout=30;
