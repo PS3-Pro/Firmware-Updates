@@ -1,51 +1,52 @@
 #JP
 Dest=83;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=83;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=83;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/PS3-Pro/-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
 
 #US
 Dest=84;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=84;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=84;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/PS3-Pro/-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
 
 #EU
 Dest=85;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=85;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=85;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/PS3-Pro/-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
 
 #KR
 Dest=86;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=86;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=86;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/PS3-Pro/-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
 
 #UK
 Dest=87;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=87;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=87;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/PS3-Pro/-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
 
 #MX
 Dest=88;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=88;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=88;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/PS3-Pro/-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
 
 #AU/NZ
 Dest=89;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=89;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=89;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/PS3-Pro/-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
 
 #SouthAsia
 Dest=8A;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=8A;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=8A;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/PS3-Pro/-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
 
 #TW
 Dest=8B;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=8B;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=8B;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/PS3-Pro/-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
 
 #RU
 Dest=8C;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=8C;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=8C;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/PS3-Pro/-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
 
 #CN
 Dest=8D;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=8D;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=8D;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/PS3-Pro/-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
 
 #HK
 Dest=8E;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=8E;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=8E;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/PS3-Pro/-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
 
 #BR
 Dest=8F;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=8F;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=8F;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=https://github.com/PS3-Pro/-Pro/Firmware-Updates/releases/download/HFW/PS3UPDAT.PUP;CDN_Timeout=30;
+
